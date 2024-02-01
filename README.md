@@ -1,9 +1,9 @@
-**# Online Library Website**
-**Overview**
+# Online Library Website
+# **Overview**
 The Online Library Website is a web application designed to provide users with access to a vast collection of books, audio content, and videos. The website aims to create a user-friendly platform where individuals can explore, search, and access a diverse range of literary and multimedia content. The project encompasses multiple pages, including the homepage (index), book page, audio page, and video page, each catering to different types of content.
 
-**Features
-1. Homepage (index)**
+# **Features**
+**1. Homepage (index)**
 Header and Navigation:
 
 The homepage features a clean and responsive design with a prominent header, including the site logo and navigation links.
